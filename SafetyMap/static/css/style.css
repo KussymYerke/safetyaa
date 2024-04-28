@@ -78,7 +78,7 @@ p {
     margin-top: 40px;
 }
 
-.tolebi_four, .tolebi_three, .tolebi_two, .tolebi_one, .tolebi_zero{
+.tolebi_five, .tolebi_four, .tolebi_three, .tolebi_two, .tolebi_one, .tolebi_zero{
     height: 30px !important;
     width: 30px !important;
 }
@@ -88,7 +88,7 @@ p {
     width: 30px !important;
 }
 
-.ab_four, .ab_three, ab_two, .ab_one, .ab_zero{
+.ab_four, .ab_three, .ab_two, .ab_one, .ab_zero{
     height: 30px !important;
     width: 30px !important;
 }
