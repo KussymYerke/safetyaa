@@ -5,8 +5,6 @@ var span = document.getElementsByClassName("close")[0];
 var body = document.body;
 var navbar = document.getElementById("navbar")
 
-
-
 span.onclick = function() {
     modal.style.display = "none";
     body.style.overflow = "auto";
